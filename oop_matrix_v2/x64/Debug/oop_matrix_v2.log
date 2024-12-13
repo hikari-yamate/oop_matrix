@@ -1,0 +1,20 @@
+﻿  MatrixArray.cpp
+C:\Users\ADMIN\Desktop\oop_matrix_v2\OOP_Maxtrix\MatrixArray.cpp(20,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\oop_matrix_v2\OOP_Maxtrix\MatrixArray.cpp(20,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\oop_matrix_v2\OOP_Maxtrix\MatrixArray.cpp(21,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\oop_matrix_v2\OOP_Maxtrix\MatrixArray.cpp(21,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\oop_matrix_v2\OOP_Maxtrix\MatrixArray.cpp(27,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ADMIN\Desktop\oop_matrix_v2\OOP_Maxtrix\MatrixArray.cpp(30,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\oop_matrix_v2\OOP_Maxtrix\MatrixArray.cpp(30,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\oop_matrix_v2\OOP_Maxtrix\MatrixArray.cpp(63,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\oop_matrix_v2\OOP_Maxtrix\MatrixArray.cpp(63,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\oop_matrix_v2\OOP_Maxtrix\MatrixArray.cpp(64,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\oop_matrix_v2\OOP_Maxtrix\MatrixArray.cpp(64,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\oop_matrix_v2\OOP_Maxtrix\MatrixArray.cpp(70,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ADMIN\Desktop\oop_matrix_v2\OOP_Maxtrix\MatrixArray.cpp(73,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\oop_matrix_v2\OOP_Maxtrix\MatrixArray.cpp(73,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\oop_matrix_v2\OOP_Maxtrix\MatrixArray.cpp(235,131): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\oop_matrix_v2\OOP_Maxtrix\MatrixArray.cpp(235,108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\oop_matrix_v2\OOP_Maxtrix\MatrixArray.cpp(279,163): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\oop_matrix_v2\OOP_Maxtrix\MatrixArray.cpp(279,132): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  oop_matrix_v2.vcxproj -> C:\Users\ADMIN\source\repos\oop_matrix_v2\x64\Debug\oop_matrix_v2.exe
